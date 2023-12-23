@@ -1,0 +1,6 @@
+1. Hopsworks: Tool for Feature Store.
+2. How to get data from API?
+Ans-> We can use requests module to get data from the API.
+3. Until functions are called explicitly, order of the function defined doesn't give error.
+4. GreatExpectation python module is used to validatet the data.
+5. Proper way to define the functions and do modular programming.
